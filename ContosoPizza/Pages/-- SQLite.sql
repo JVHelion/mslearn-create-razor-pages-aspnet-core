@@ -1,0 +1,2 @@
+-- SQLite
+select * froM Pizzas
